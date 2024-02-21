@@ -1,4 +1,4 @@
-# CNN-Colorized-MNIST
+# Colorized MNIST CNNs
 CNN models created to classify randomly colorized MNIST data
 
 Data from the MNIST handwritten digit dataset was randomly colorized to either 1 hue (hue on white background) or 2 hues (hue on second hue background).
